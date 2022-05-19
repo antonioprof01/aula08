@@ -5,7 +5,10 @@ public class App {
 
         Cliente c1 = new Cliente("Diego", end);
 
+        Cliente c2 = new Cliente("Will", end);
+
         c1.imprimeInformacoes();
+        c2.imprimeInformacoes();
 
     }
 }
